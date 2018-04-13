@@ -1,2 +1,2 @@
 # arimus
-a project for playing around
+a project for playing around and have fun
